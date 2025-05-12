@@ -8,7 +8,7 @@
 
 ## 📋 Overview
 
-This directory contains a **Power BI dashboard** that visualizes **sales analytics** from the **Sales Analytics Data Warehouse**. Built with **PostgreSQL**, the dashboard connects directly to the **Gold layer tables** (`gold.dim_customers`, `gold.dim_products`, `gold.fact_sales`) to deliver insights on sales performance, regional trends, and growth opportunities. These tables are created in [schema_gold.sql](../scripts/Gold/DDL_GOLD_TABLE.sql) and populated with analytics-ready data via [sales_analysis.sql](../analytics_report/sales_analysis.sql).
+This directory contains a **Power BI dashboard** that visualizes **sales analytics** from the **Sales Analytics Data Warehouse**. Built with **PostgreSQL**, the dashboard connects directly to the **Gold layer tables** (`gold.dim_customers`, `gold.dim_products`, `gold.fact_sales`) to deliver insights on sales performance, regional trends, and growth opportunities. These tables are created in [schema_gold.sql](../scripts/Gold/DDL_Gold_Table.sql) and populated with analytics-ready data via [sales_analysis.sql](../analytics_report/sales_analysis.sql).
 
 ---
 
@@ -104,7 +104,7 @@ The dashboard connects directly to the **Gold layer tables** in PostgreSQL, spec
 - **`dim_products`**: Stores product information (e.g., `product_id`, `category`, `product_cost`).
 - **`fact_sales`**: Records sales transactions (e.g., `order_date`, `sales_amount`, `quantity`).
 
-These tables are created in [schema_gold.sql](../scripts/Gold/DDL_GOLD_TABLE.sql) and populated with data processed through the **Medallion Architecture**:
+These tables are created in [schema_gold.sql](../scripts/Gold/DDL_Gold_Table.sql) and populated with data processed through the **Medallion Architecture**:
 - **Bronze Layer**: Raw data ingestion (see [Data README](../data/README.md)).
 - **Silver Layer**: Cleaning and standardization (see [Scripts README](../scripts/README.md)).
 - **Gold Layer**: Analytics-ready data with quality checks (see [Tests README](../tests/README.md)).
@@ -114,7 +114,7 @@ The analytics in [sales_analysis.sql](../scripts/Gold/sales_analysis.sql) prepro
 - Joining with `dim_customers` for regional analysis (e.g., sales by `country`).
 - Linking to `dim_products` for product performance (e.g., sales by `category`).
 
-The customer and product reports ([Reports README](../analytics/README.md)) complement the dashboard by providing detailed SQL-based insights, which are visualized in Power BI.
+The customer and product reports ([Reports README](../analytics_report/README.md)) complement the dashboard by providing detailed SQL-based insights, which are visualized in Power BI.
 
 ---
 
