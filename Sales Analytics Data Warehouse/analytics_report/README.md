@@ -60,7 +60,7 @@ The **Exploratory Data Analysis (EDA)**, executed via [sales_analysis.sql](../an
 
 ### Prerequisites
 - **PostgreSQL**: Install from [postgresql.org](https://www.postgresql.org/download/) 🌐
-- **Data Warehouse**: Ensure data is loaded (see [Scripts README](../scripts/README.md)).
+- **Data Warehouse**: Ensure data is loaded see [Scripts README](../scripts/README.md).
 
 ### Execution
 1. **Generate Reports**:
