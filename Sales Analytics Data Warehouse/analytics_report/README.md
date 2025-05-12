@@ -42,7 +42,7 @@ The **Exploratory Data Analysis (EDA)**, executed via [sales_analysis.sql](../an
   - KPIs: Recency, Average Order Value (AOV), Monthly Spend.
 - **Value**: Identifies high-value customers and informs retention efforts.
 
-- **Check output** [here]((../analytics_report/customer_insights/customer_metrics))
+- **Check output** [here]((../analytics_report/customer_insights/customer_metrics.csv))
 
 ### 2. Product Performance Report (`product_performance_report.sql`) 📦
 - **Purpose**: Evaluates product sales for inventory decisions.
