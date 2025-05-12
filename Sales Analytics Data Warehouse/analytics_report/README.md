@@ -13,7 +13,7 @@ This directory contains **SQL reports** that provide **business insights** from 
 ---
 
 ## 📂 Analysis Process
-![analysis](https://github.com/user-attachments/assets/95d3e41a-3e25-4ab4-b811-e6228ef523ca)
+![analysis](https://github.com/jimi121/Data-Warehouse-Projects/blob/main/Sales%20Analytics%20Data%20Warehouse/doc/EDA%20steps.svg)
 
 The **Exploratory Data Analysis (EDA)**, executed via [sales_analysis.sql](../analytics_report/sales_analysis.sql), follows a structured approach:
 
