@@ -104,7 +104,7 @@ The dashboard connects directly to the **Gold layer tables** in PostgreSQL, spec
 - **`dim_products`**: Stores product information (e.g., `product_id`, `category`, `product_cost`).
 - **`fact_sales`**: Records sales transactions (e.g., `order_date`, `sales_amount`, `quantity`).
 
-These tables are created in [schema_gold.sql](../scripts/Gold/DDL%Gold%Table.sql) and populated with data processed through the **Medallion Architecture**:
+These tables are created in [schema_gold.sql](https://github.com/jimi121/Data-Warehouse-Projects/blob/main/Sales%20Analytics%20Data%20Warehouse/scripts/Gold/DDL%20Gold%20Table.sql) and populated with data processed through the **Medallion Architecture**:
 - **Bronze Layer**: Raw data ingestion (see [Data README](../data/README.md)).
 - **Silver Layer**: Cleaning and standardization (see [Scripts README](../scripts/README.md)).
 - **Gold Layer**: Analytics-ready data with quality checks (see [Tests README](../tests/README.md)).
