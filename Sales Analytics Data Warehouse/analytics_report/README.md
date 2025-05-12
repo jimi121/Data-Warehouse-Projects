@@ -44,7 +44,7 @@ The **Exploratory Data Analysis (EDA)**, executed via [sales_analysis.sql](../an
 
 - **Check output** [here](../analytics_report/customer_insights/customer_metrics.csv)
 
-### 2. Product Performance Report (`product_performance_report.sql`) 📦
+### 2. Product Performance Report [product_performance_report.sql](../analytics_report/customer_insights/product_performance_report.sql) 📦
 - **Purpose**: Evaluates product sales for inventory decisions.
 - **Metrics**:
   - Details: Name, category, cost.
@@ -53,7 +53,7 @@ The **Exploratory Data Analysis (EDA)**, executed via [sales_analysis.sql](../an
   - KPIs: Recency, Average Order Revenue (AOR), Monthly Revenue.
 - **Value**: Highlights top products and guides development plans.
 
-- **Check output** [here]((../analytics_report/product_performance/product_metrics))
+- **Check output** [here](../analytics_report/product_performance/product_metrics)
 ---
 
 ## 🚀 Usage
