@@ -56,7 +56,7 @@ scripts/
 - **`gold/DDL_Gold_Table.sql`**:
   - Creates fact and dimension tables (`dim_customers`, `dim_products`, `fact_sales`)
 - **`gold/DDL_Gold_View.sql`**:
-  - Creates fact and dimension tables (`dim_customers_v`, `dim_products_v`, `fact_sales_v`)
+  - Creates fact and dimension view (`dim_customers_v`, `dim_products_v`, `fact_sales_v`)
   - Ensures referential integrity and optimization for reporting.
 - **`analytics_report/sales_analysis.sql`**:
   - Executes advanced analytics, including:
