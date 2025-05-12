@@ -86,10 +86,10 @@ The analytics process, implemented in [sales_analysis.sql](analytics_report/sale
 - **Contribution Analysis**: Measure category and regional sales contributions.
 - **Reporting Views**: Create `vw_customer_insights` and `vw_product_insights` for streamlined reporting.
 
-Outputs are stored in `analytics/outputs/`.
+Outputs are stored in `analytics_report/`.
 
-![ETL Pipeline](docs/diagrams/etl_pipeline.png)  
-*(Diagram illustrates the ETL and analytics flow)*
+![EDA](https://github.com/jimi121/Data-Warehouse-Projects/blob/main/Sales%20Analytics%20Data%20Warehouse/doc/EDA%20steps.svg)  
+
 
 ---
 
@@ -127,7 +127,8 @@ A heartfelt thank you to my instructor, Baraa Khatib Salkini.IT Project Manager 
 
 
 ## 📌 **Follow me on:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rudra-prasad-bhuyan-44a388235)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Rudra-G-23)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/
+olajimi-adeleke)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/jimi121?tab=repositories)   
 
 📧 Email me at: [adelekejimi@gmail.com](mailto:adelekejimi@gmail.com)  
