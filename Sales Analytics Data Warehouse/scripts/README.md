@@ -11,7 +11,7 @@
 This directory contains the **SQL scripts** that drive the ETL pipeline and analytics for the **Sales Analytics Data Warehouse**. Built with **PostgreSQL**, these scripts implement the **Medallion Architecture** to process data from raw ingestion to analytics-ready outputs, culminating in [sales_analysis.sql](analytics_report/sales_analysis.sql) for business insights.
 
 ---
-![data_layer](https://github.com/user-attachments/assets/d298da24-6a18-4476-93d9-d4709a33b6af)
+![data_integreation](https://github.com/jimi121/Data-Warehouse-Projects/blob/main/Sales%20Analytics%20Data%20Warehouse/doc/data_integration.PNG)
 
 ## 📂 Script Structure
 
