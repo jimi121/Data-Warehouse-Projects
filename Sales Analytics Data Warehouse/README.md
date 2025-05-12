@@ -70,6 +70,7 @@ The project is structured using the **Medallion Architecture**, with three disti
 1. **Bronze Layer**: Ingest raw CSV data into PostgreSQL (`scripts/bronze/Proc_Load_Bronze_Data.sql`).
 2. **Silver Layer**: Clean and standardize data, addressing nulls and inconsistencies (`scripts/silver/Proc_Load_Data_Into_Silver.sql`).
 3. **Gold Layer**: Create star schema tables and views for analytics (`scripts/gold/DDL_Gold_Table.sql`, `sales_analysis.sql`).
+![data flow](https://github.com/jimi121/Data-Warehouse-Projects/blob/main/Sales%20Analytics%20Data%20Warehouse/doc/data_flow.svg)
 
 ### Analytics Workflow
 The analytics process, implemented in [sales_analysis.sql](analytics_report/sales_analysis.sql), includes:
