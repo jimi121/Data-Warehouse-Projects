@@ -120,7 +120,7 @@ Outputs are stored in `analytics_report/`.
 
 
 ## 🙏 Gratitude
-A heartfelt thank you to my instructor, Baraa Khatib Salkini.IT Project Manager | Lead Big Data, Data Lakehouse and BI at Mercedes-Benz AG. I learned many things from him.
+I would like to express my sincere gratitude to my instructor, Baraa Khatib Salkini, IT Project Manager and Lead for Big Data, Data Lakehouse, and BI at Mercedes-Benz AG. His guidance and expertise have taught me so much, and I’m truly grateful for the opportunity to learn from him.
 *   [LinkedIn](https://www.linkedin.com/in/baraa-khatib-salkini-845b1b55/)
 *   [YouTube](https://www.youtube.com/@DataWithBaraa) 
 
