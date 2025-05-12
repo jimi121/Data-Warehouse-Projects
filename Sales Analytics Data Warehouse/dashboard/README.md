@@ -15,7 +15,7 @@ This directory contains a **Power BI dashboard** that visualizes **sales analyti
 ## 📊 Dashboard Insights
 
 The dashboard provides a comprehensive view of sales performance from 2010–2014, derived from the Gold layer tables. Below are the key insights and their business implications.
-
+![dashboard](https://github.com/jimi121/Data-Warehouse-Projects/blob/main/Sales%20Analytics%20Data%20Warehouse/dashboard/Dashboard.PNG)
 ### 1. Overall Sales Performance 📅
 - **Total Sales**: $29 million across 60,000 items sold.
 - **Year-over-Year (YoY) Growth**: 0.15% in 2014, a sharp decline from previous years.
