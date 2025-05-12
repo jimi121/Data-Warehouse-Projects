@@ -28,9 +28,6 @@ data/
 ├── product_categories.csv # Product category data
 ```
 
-
-**Further Details**: See [docs/](doc/) for additional documentation.
-
 ---
 
 ## 🗄️ Tables in the Data Warehouse
@@ -114,5 +111,6 @@ These support analytics in [sales_analysis.sql](../analytics_report/sales_analys
 
 - **Scripts**: [scripts/](../scripts/)
 - **Tests**: [tests/](../tests/)
-- **Documentation**: [docs/](../doc/)
+- **Documentation**: [doc/](../doc/)
 - **Diagrams**: [Draw.io](https://www.drawio.com/)
+- **Naming Convention**:[naming_convention](../doc/naming_conventions.md)
