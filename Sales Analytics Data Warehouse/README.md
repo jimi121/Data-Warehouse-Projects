@@ -127,8 +127,7 @@ A heartfelt thank you to my instructor, Baraa Khatib Salkini.IT Project Manager 
 
 
 ## 📌 **Follow me on:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/
-olajimi-adeleke)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/olajimi-adeleke)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/jimi121?tab=repositories)   
 
 📧 Email me at: [adelekejimi@gmail.com](mailto:adelekejimi@gmail.com)  
