@@ -11,5 +11,5 @@
 📌 **For additional documentation, visit the following links:**  
 
 📑 **[Naming Conventions](https://github.com/jimi121/Data-Warehouse-Projects/blob/main/Sales%20Analytics%20Data%20Warehouse/doc/naming_conventions.md)**  
-🔖 **[Data Catalog for the Gold Layer](https://github.com/Rudra-G-23/SQL-Data-Warehouse-Project/blob/main/docs/gold/data_catalog.md)**  
+🔖 **[Data Catalog for the Gold Layer](https://github.com/jimi121/Data-Warehouse-Projects/blob/main/Sales%20Analytics%20Data%20Warehouse/doc/data_catalog_gold_layer.md)**  
 🛠️ **[Tests & Quality Checks](https://github.com/jimi121/Data-Warehouse-Projects/tree/main/Sales%20Analytics%20Data%20Warehouse/tests)**  
