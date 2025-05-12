@@ -61,7 +61,7 @@ tests/
 
 ---
 
-![data_check](https://github.com/user-attachments/assets/4f0ef086-9342-4ebc-b804-db006b8d138f)
+![data layer](https://github.com/jimi121/Data-Warehouse-Projects/blob/main/Sales%20Analytics%20Data%20Warehouse/doc/data_layers.PNG)
 
 ---
 
