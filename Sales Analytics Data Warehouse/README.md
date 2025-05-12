@@ -2,6 +2,7 @@
 
 **A PostgreSQL-based data warehouse leveraging the Medallion Architecture for comprehensive sales analytics**
 
+![image](https://github.com/jimi121/Data-Warehouse-Projects/blob/main/Sales%20Analytics%20Data%20Warehouse/doc/SQL_Projects.svg)
 ---
 
 ## Project Summary
@@ -13,8 +14,7 @@ This repository showcases an **end-to-end data warehouse solution** built to pro
 - **Data Modeling**: Create fact and dimension tables for efficient analytics.
 - **Analytics**: Generate insights through SQL queries, including segmentation, rankings, and trends.
 - **Documentation**: Provide clear metadata and diagrams for transparency.
-- 
-![image](https://github.com/jimi121/Data-Warehouse-Projects/blob/main/Sales%20Analytics%20Data%20Warehouse/doc/SQL_Projects.svg)
+
 ---
 
 ## Medallion Architecture
