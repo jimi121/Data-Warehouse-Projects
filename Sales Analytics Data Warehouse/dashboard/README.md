@@ -8,7 +8,7 @@
 
 ## 📋 Overview
 
-This directory contains a **Power BI dashboard** that visualizes **sales analytics** from the **Sales Analytics Data Warehouse**. Built with **PostgreSQL**, the dashboard connects directly to the **Gold layer tables** (`gold.dim_customers`, `gold.dim_products`, `gold.fact_sales`) to deliver insights on sales performance, regional trends, and growth opportunities. These tables are created in [schema_gold.sql](../scripts/Gold/DDL_Gold_Table.sql) and populated with analytics-ready data via [sales_analysis.sql](../analytics_report/sales_analysis.sql).
+This directory contains a **Power BI dashboard** that visualizes **sales analytics** from the **Sales Analytics Data Warehouse**. Built with **PostgreSQL**, the dashboard connects directly to the **Gold layer tables** (`gold.dim_customers`, `gold.dim_products`, `gold.fact_sales`) to deliver insights on sales performance, regional trends, and growth opportunities. These tables are created in [schema_gold.sql](../scripts/Gold/DDL Gold Table.sql) and populated with analytics-ready data via [sales_analysis.sql](../analytics_report/sales_analysis.sql).
 
 ---
 
