@@ -61,7 +61,7 @@ The project is structured using the **Medallion Architecture**, with three disti
 | `tests/`        | Data quality assurance scripts                  | [✅ README](tests/README.md) |
 | `analytics/`    | SQL reports for business insights               | [📈 README](analytics/README.md) |
 | `dashboard/`    | Power BI dashboard for sales visualizations     | [📊 README](dashboard/README.md) |
-| `docs/`         | Project documentation and schemas               | [📚 README](docs/README.md) |
+| `docs/`         | Project documentation and schemas               | [📚 README](docs/) |
 
 ---
 ## ETL & Analytics Pipeline
