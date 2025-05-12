@@ -29,7 +29,7 @@ data/
 ```
 
 
-**Further Details**: See [docs/](docs/) for additional documentation.
+**Further Details**: See [docs/](doc/) for additional documentation.
 
 ---
 
@@ -114,5 +114,5 @@ These support analytics in [sales_analysis.sql](../analytics_report/sales_analys
 
 - **Scripts**: [scripts/](../scripts/)
 - **Tests**: [tests/](../tests/)
-- **Documentation**: [docs/](../docs/)
+- **Documentation**: [docs/](../doc/)
 - **Diagrams**: [Draw.io](https://www.drawio.com/)
