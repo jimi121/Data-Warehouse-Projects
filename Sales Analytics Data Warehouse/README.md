@@ -26,8 +26,7 @@ The project is structured using the **Medallion Architecture**, with three disti
 - **Gold Layer**: Curated data in a star schema, optimized for analytics (e.g., `dim_customers`, `dim_products`, `fact_sales`).
 
 ### Architecture Diagram
-![Medallion Flow](docs/diagrams/medallion_flow.png)  
-*(Diagram created with Draw.io, stored in `docs/diagrams/`)*
+![Medallion Flow](https://github.com/jimi121/Data-Warehouse-Projects/blob/main/Sales%20Analytics%20Data%20Warehouse/doc/Data_Architecture.png)  
 
 ---
 
